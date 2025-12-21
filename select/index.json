@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "自分らしさに会いに行こう",
+  "base_artist": "名取さな",
+  "createdAt": "2025-12-21T09:30:00.274238Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自分らしさに会いに行こう",
+      "artist": "名取さな",
+      "has_synced": false,
+      "path": "select/pl_01_自分らしさに会いに行こう_名取さな.txt"
+    }
+  ]
+}
